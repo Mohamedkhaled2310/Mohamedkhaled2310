@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamed70644655" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed70644655?logo=twitter&style=for-the-badge" alt="mohamed70644655" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://mohamedkhaled2310.github.io/Mohamedkhaled/](https://mohamedkhaled2310.github.io/Mohamedkhaled/)
 
